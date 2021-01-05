@@ -17,6 +17,6 @@ C:\Users\boverhof\Desktop>update_registry.reg
 ##### Install NuGet command line tool
 - Open Package Manager Console in Visual Studio under tab `Tools`, `Library Package Manager`
 ```
-Install NuGet
+PM> Install-Package NuGet
 ```
 
