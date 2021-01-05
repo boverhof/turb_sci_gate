@@ -15,7 +15,7 @@ C:\Users\boverhof\Desktop>update_registry.reg
 ```
 #### Open TurbineLite project
 ##### Install NuGet command line tool
-- Open NuGet package manager in Visual Studio
+- Open Package Manager Console in Visual Studio under tab `Tools`, `Library Package Manager`
 ```
 Install NuGet
 ```
